@@ -18,6 +18,11 @@ body {
   align-items: center;
 }
 
+form {
+  border: 1px solid orange;
+  padding: 1rem;
+}
+
 main {
   display: flex;
   gap: 1rem;
